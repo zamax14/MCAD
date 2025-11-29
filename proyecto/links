@@ -1,0 +1,9 @@
+Regresion lineal multiple
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+
+One-Hot Encoding:
+https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html
+
+Metricas de evaluacion: R2, MSE, RMSE
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html#sklearn.metrics.mean_squared_error
